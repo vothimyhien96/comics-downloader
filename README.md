@@ -90,8 +90,8 @@ Usage:
 | http://readallcomics.com    | &#x2713; | &#x2717; | &#x2713; |
 | http://www.comicextra.com/  | &#x2713; | &#x2717; | &#x2713; |
 | http://www.mangatown.com/   | &#x2713; | &#x2717; | &#x2713; |
-| https://mangadex.org/       | &#x2713; | &#x2713; | &#x2717; |
-| https://readcomiconline.li/ | &#x2713; | &#x2717; | &#x2713; |
+| mangabuddyy.com      | &#x2713; | &#x2713; | &#x2717; |
+| mangabuddyy.us | &#x2713; | &#x2717; | &#x2713; |
 | https://www.mangareader.tv/ | &#x2713; | &#x2717; | &#x2713; |
 | https://www.mangakalot.com/ | &#x2713; | &#x2717; | &#x2713; |
 | https://www.manganato.com/  | &#x2713; | &#x2717; | &#x2713; |
